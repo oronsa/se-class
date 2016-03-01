@@ -1,6 +1,8 @@
 se-class
 ========
 
+[![Join the chat at https://gitter.im/oronsa/se-class](https://badges.gitter.im/oronsa/se-class.svg)](https://gitter.im/oronsa/se-class?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Repository for JCE software engineering course materials
 
 <p dir="rtl">
